@@ -36,6 +36,11 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
 
 
 ## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshadSanjayKarale/HarshadSanjayKarale/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshadSanjayKarale/HarshadSanjayKarale/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshadSanjayKarale/HarshadSanjayKarale/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshadSanjayKarale&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
@@ -48,11 +53,7 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshadSanjayKarale/HarshadSanjayKarale/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshadSanjayKarale/HarshadSanjayKarale/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshadSanjayKarale/HarshadSanjayKarale/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ## 🏆 Achievements
 

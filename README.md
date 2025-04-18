@@ -8,17 +8,24 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshadSanjayKarale)
 </div>
 
-<img align="right" alt="Coding" width="400" style="margin-top: 20px;"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
 ## 🚀 About Me
 
-I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, Pune with a passion for full-stack development and hackathons. My technical journey includes developing institutional-level applications and participating in numerous hackathons, frequently reaching finalist positions and winning awards.
-
-- 🎓 B.Tech in Computer Engineering (Expected: May 2026)
-- 📊 CGPA: 9.43/10.0
-- 🏆 15+ Hackathon Finalist experiences
-- 🏅 Multiple hackathon victories including Hactopia (1st) and BlueBit (1st Runner-up)
-- 🏏 Cricket enthusiast and sports lover
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 0 0 30%;">
+    <img alt="Coding" width="100%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+  </div>
+  <div style="flex: 0 0 70%; padding-left: 20px;">
+    <p>I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, Pune with a passion for full-stack development and hackathons. My technical journey includes developing institutional-level applications and participating in numerous hackathons, frequently reaching finalist positions and winning awards.</p>
+    
+    <ul>
+      <li>🎓 B.Tech in Computer Engineering (Expected: May 2026)</li>
+      <li>📊 CGPA: 9.43/10.0</li>
+      <li>🏆 15+ Hackathon Finalist experiences</li>
+      <li>🏅 Multiple hackathon victories including Hactopia (1st) and BlueBit (1st Runner-up)</li>
+      <li>🏏 Cricket enthusiast and sports lover</li>
+    </ul>
+  </div>
+</div>
 
 ## 💻 Technical Skills
 

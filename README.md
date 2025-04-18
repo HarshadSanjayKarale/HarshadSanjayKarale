@@ -48,9 +48,11 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
 </div>
 
 
-<div align="center">
-  <img src="https://github.com/HarshadSanjayKarale/HarshadSanjayKarale/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshadSanjayKarale/HarshadSanjayKarale/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshadSanjayKarale/HarshadSanjayKarale/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshadSanjayKarale/HarshadSanjayKarale/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🏆 Achievements
 

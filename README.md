@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="left" alt="Coding" width="320" style="margin-right: 20px; margin-bottom: 20px;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="320" style="margin-left: 20px; margin-bottom: 20px;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, Pune with a passion for full-stack development and hackathons. My technical journey includes developing institutional-level applications and participating in numerous hackathons, frequently reaching finalist positions and winning awards.
 
@@ -20,7 +20,7 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
 - 🏅 Multiple hackathon victories including Hactopia (1st) and BlueBit (1st Runner-up)
 - 🏏 Cricket enthusiast and sports lover
 
-<br clear="left"/>
+<br clear="right"/>
 
 ## 💻 Technical Skills
 

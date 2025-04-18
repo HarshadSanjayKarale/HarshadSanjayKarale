@@ -34,6 +34,34 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
 
 </div>
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshadSanjayKarale&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshadSanjayKarale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadSanjayKarale&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshadSanjayKarale&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Competition | Position | Date |
+|-------------|----------|------|
+| Baby Conference ACM, PCCOE (Best Research Paper) | 🥇 Winner | March 21, 2025 |
+| Hactopia Hackathon by ACM PCCOE | 🥇 1st Place | October 22, 2024 |
+| BlueBit National Level Hackathon by MSLC, PCCOE | 🥈 1st Runner-up | March 29, 2025 |
+| MindSpark Hackathon by COEP, Pune | 🏅 4th Place | October 18-19, 2024 |
+
+</div>
+
+
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -119,18 +147,6 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
 
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Competition | Position | Date |
-|-------------|----------|------|
-| Baby Conference ACM, PCCOE (Best Research Paper) | 🥇 Winner | March 21, 2025 |
-| Hactopia Hackathon by ACM PCCOE | 🥇 1st Place | October 22, 2024 |
-| BlueBit National Level Hackathon by MSLC, PCCOE | 🥈 1st Runner-up | March 29, 2025 |
-| MindSpark Hackathon by COEP, Pune | 🏅 4th Place | October 18-19, 2024 |
-
-</div>
 
 ## 📜 Certifications
 
@@ -138,17 +154,7 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
 - **CS50W:** CS50's Web Programming with Python and JavaScript by Harvard University (August 2024)
 - **CS50x:** Introduction To Computer Science by Harvard University (August 2023)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshadSanjayKarale&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshadSanjayKarale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadSanjayKarale&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshadSanjayKarale&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 

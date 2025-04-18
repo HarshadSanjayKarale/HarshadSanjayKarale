@@ -8,7 +8,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshadSanjayKarale)
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" style="margin-top: 20px;"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 🚀 About Me
 
@@ -43,7 +43,7 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
     <td width="50%">
       <h3 align="center">Faculty Appraisal System</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://i.ibb.co/7JrcJnw/dashboard.png" width="100%" alt="Faculty Appraisal"/></a>
+        <a href="#" target="_blank"><img src="./images/facultyappraisal.png" width="100%" alt="Faculty Appraisal"/></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=6366f1" alt="React"/>
@@ -61,7 +61,7 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
     <td width="50%">
       <h3 align="center">Prashaansh</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://i.ibb.co/nDxLcMZ/questions.png" width="100%" alt="Prashaansh"/></a>
+        <a href="#" target="_blank"><img src="./images/Prashnaansh.png" width="100%" alt="Prashaansh"/></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Code-ElectronJS-informational?style=flat&logo=electron&logoColor=white&color=6366f1" alt="ElectronJS"/>
@@ -81,7 +81,7 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
     <td width="50%">
       <h3 align="center">ProResolve</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://i.ibb.co/6FzFtGZ/bug-tracking.png" width="100%" alt="ProResolve"/></a>
+        <a href="#" target="_blank"><img src="./images/ProResolve.png" width="100%" alt="ProResolve"/></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=6366f1" alt="React"/>
@@ -99,7 +99,7 @@ I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering, P
     <td width="50%">
       <h3 align="center">Wiki-Tok</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://i.ibb.co/WykDSZy/wiki.png" width="100%" alt="Wiki-Tok"/></a>
+        <a href="#" target="_blank"><img src="./images/Wikitok.png" width="100%" alt="Wiki-Tok"/></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6366f1" alt="Flutter"/>
